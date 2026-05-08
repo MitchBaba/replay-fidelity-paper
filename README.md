@@ -16,6 +16,14 @@ The focus is on structural requirements such as:
 
 This is not a model paper, benchmark proposal, or attack paper. It is a structural audit / measurement-validity paper.
 
+## Reproducibility Tool
+
+The structural audit tool used for this paper is available here:
+
+https://github.com/MitchBaba/replay-fidelity-auditor
+
+The auditor checks dataset structure for replay-fidelity properties such as enumerable turns, role attribution, alternation depth, missing required roles, and truncation / summary markers.
+
 ## Author
 
 Mitchell Ryan Baba  
